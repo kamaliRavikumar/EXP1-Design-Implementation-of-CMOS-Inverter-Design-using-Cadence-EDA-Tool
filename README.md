@@ -46,7 +46,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image]!(https://github.com/user-attachments/assets/40ff327e-999f-475f-9086-68ae5e398686)
+![image](https://github.com/user-attachments/assets/40ff327e-999f-475f-9086-68ae5e398686)
 
 
  
@@ -106,7 +106,7 @@ For Transient Analysis Settings and Output
 
 
 
-![image]!(https://github.com/user-attachments/assets/37eb9b5e-027b-4534-b4b1-2bb2e4031648)
+![image](https://github.com/user-attachments/assets/37eb9b5e-027b-4534-b4b1-2bb2e4031648)
 
 
  
